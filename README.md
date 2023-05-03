@@ -1,2 +1,2 @@
 # Triangle
-its is type of patten of tringles
+it is type of tringles patterns.
