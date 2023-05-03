@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-class HelloWorld {
+class triangle {
     public static void main(String[] args) {
         int i,j=0;
         Scanner sc = new Scanner (System.in);
